@@ -1,0 +1,7 @@
+kregowiec strunowiec tygrys 0 3 200
+tkankowiec parzydelkowiec meduza 1
+nibytkankowiec gabka nadecznik_stawowy 1
+kregowiec strunowiec koliber 0 4 1
+tkankowiec stunowiec slon 0
+kregowiec strunowiec tygrys_azjatycki 0 2 200
+kregowiec strunowiec Tygrys_syberyjski 0 2 150

@@ -1,0 +1,10 @@
+﻿  Kregowce.cpp
+  Nibytkankowce.cpp
+  Procedury.cpp
+C:\Users\kaboo\source\repos\34098300-gr12-repo\Projekt\Projekt_temat_8\Projekt_temat_8\Procedury.cpp(8,20): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\kaboo\source\repos\34098300-gr12-repo\Projekt\Projekt_temat_8\Projekt_temat_8\Procedury.cpp(15,20): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  Projekt_temat_8.cpp
+  Tkankowce.cpp
+  Zwierze.cpp
+  Generowanie kodu...
+  Projekt_temat_8.vcxproj -> C:\Users\kaboo\source\repos\34098300-gr12-repo\Projekt\Projekt_temat_8\Debug\Projekt_temat_8.exe
